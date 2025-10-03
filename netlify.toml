@@ -1,0 +1,6 @@
+[build]
+  publish = "public"
+  command = "hugo" # Простая команда сборки
+
+[build.environment]
+  HUGO_VERSION = "0.147.0"
