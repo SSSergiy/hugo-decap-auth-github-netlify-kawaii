@@ -5,7 +5,7 @@
 
 (function() {
     'use strict';
-    //hi
+    //
 
     // Theme toggle functionality
     function initThemeToggle() {
