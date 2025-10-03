@@ -2,7 +2,6 @@ baseURL = "https://hugo-kawaii.pages.dev"
 languageCode = "en-us"
 title = "Kawaii Theme Demo"
 theme = "kawaii"
-themesDir = "themes"
 
 enableEmoji = true
 
